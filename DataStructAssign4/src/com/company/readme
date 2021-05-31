@@ -1,0 +1,10 @@
+249974 BinaryHeap    372891634693100
+249974 PriorityQueue 558338898513500
+
+
+    The java build in Priority Queue is data structure is basically is heap implementation act like a Queue.
+    Vs my binary heap its was a lot slow to my in comparision of time I run several test with different versions
+    my binary heap it constantly when I run my several time my binary heap is faster I deduce is because he time it
+    performance less operation vs the Priority Queue build in java library has both the min-heap and max-heap.
+
+
